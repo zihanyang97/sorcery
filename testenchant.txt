@@ -1,0 +1,19 @@
+sean
+ten
+play 1
+discard 3
+draw
+draw
+play 5 1 1
+play 4 1 1
+play 3 1 1
+draw
+draw
+draw
+play 4 1 1
+play 4 1 1
+end
+play 1
+play 3 1 1
+end
+
